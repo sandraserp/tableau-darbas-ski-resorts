@@ -1,2 +1,2 @@
-# tableau-darbas-ski-resorts
-Darbas Tableau atsiskaitymui
+# duomenų analitikos atsiskaitymų darbai
+Darbas su SQL, Tableau ir Phyton
